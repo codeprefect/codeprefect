@@ -12,4 +12,4 @@ Currently 🔭 building fintech solutions using [.NET Core](https://docs.microso
 
 🧪 [Test Driven Development](https://www.agilealliance.org/glossary/tdd/), [CQRS](https://www.martinfowler.com/bliki/CQRS.html), and [Domain Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html) are some superpowers I have acquired in the last few years.
 
-My writings live at ['Barak on Code](https://blog.barakimam.me), and you can get in touch via [📨](mailto:mubarakadeimam@gmail.com) or [🦅](https://twitter.com/codeprefect)
+My writings live at ['Barak on Code](https://blog.barakimam.me), and you can get in touch via [📨](mailto:mubarakadeimam@gmail.com) or [twitter](https://twitter.com/codeprefect)
