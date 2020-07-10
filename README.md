@@ -1,6 +1,6 @@
 ### Marhaban! 👋
 
-### I am 'Barak Imam
+### Mera naam 'Barak Imam
 
 ##### 💻 Full-stack Developer | 🧰 Technical Team Lead | 👨🏽‍🏫 Mentor
 
